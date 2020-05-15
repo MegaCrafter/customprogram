@@ -1,0 +1,9 @@
+laf native
+
+window wnd
+    title "Test Program!"
+    size 800 600
+    center
+end
+
+show wnd
