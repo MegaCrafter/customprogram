@@ -3,6 +3,8 @@ laf native
 window wnd
     title "Test Program!"
     size 800 600
+
+    # has to be after setting size
     center
 end
 

@@ -4,5 +4,6 @@ public enum CprVarType {
 
     WINDOW,
     BUTTON,
-    LABEL
+    LABEL,
+    PANEL
 }

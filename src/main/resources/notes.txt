@@ -1,0 +1,6 @@
+laf -> look and feel
+window (x y width height bounds size center title)
+button (x y width height bounds size parent)
+label
+panel
+

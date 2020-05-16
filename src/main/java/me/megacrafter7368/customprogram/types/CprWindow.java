@@ -14,7 +14,6 @@ public class CprWindow extends CprType {
     /*
      *  SETTERS
      */
-
     public void setTitle(String title) {
         frame.setTitle(title);
     }
@@ -45,6 +44,10 @@ public class CprWindow extends CprType {
 
     public void center() {
         frame.setLocationRelativeTo(null);
+    }
+
+    public void show() {
+        frame.setVisible(true);
     }
 
     /*
